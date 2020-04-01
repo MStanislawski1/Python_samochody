@@ -1,0 +1,4 @@
+1|vw|polo|2001|1400|182000|manualna
+2|seat|leon|2008|1400|120000|manualna
+3|audi|a7|2016|2400|40000|automatyczna
+4|skoda|octavia|2010|1200|78500|manualna
